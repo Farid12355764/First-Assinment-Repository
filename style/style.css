@@ -1,0 +1,85 @@
+
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+
+
+
+/*nav style*/
+nav ul li{
+  list-style: none;
+}
+
+ul li a{
+  text-decoration: none;
+}
+
+nav h4{
+  color: #0E0E0E;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+small{
+  color: rgba(14, 14, 14, 0.5);
+  font-weight: 200;
+  font-size: 24px;
+}
+
+button:hover{
+  background-color: skyblue;
+}
+
+.button2{
+  color: #FFFFFF;
+  background-color: #006A50;
+  padding: 17px 34px 17px 34px;
+  border-radius: 8px;
+}
+
+
+.nav1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin:31px 160px 31px 160px;
+}
+
+.button1{
+  color: #006A50;
+  font-weight: 300;
+  font-size: 18px;
+  padding: 15px 30px 15px 30px;
+  border-radius: 8px;
+}
+
+.div1{
+  background-color: #C6E4D6;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 160px;
+  margin-right: 160px;
+  border-radius: 24px;
+}
+
+.img1{
+  height: 400px;
+  width: 474px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+  .h11{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 56px;
+  }
+
+  /* padding: 80px 9px 80px 64px; */
+}
