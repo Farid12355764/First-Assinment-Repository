@@ -40,6 +40,11 @@ small{
   font-size: 16px;
 }
 
+
+
+
+
+
 .b1{
   color: rgba(14, 14, 14, 0.8);
 }
@@ -55,6 +60,11 @@ small{
   font-size: 20px;
   color: rgba(14, 14, 14, 0.8);
 }
+
+
+
+
+
 
 .p1{
   font-weight: 100;
@@ -96,6 +106,8 @@ small{
   font-size: 16px;
 
 }
+
+
 
 
 
@@ -172,12 +184,16 @@ font-size: 18px;
 
 
 
+
+
  .nav1{
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin:31px 160px 31px 160px;
 }
+
+
 
 
 
@@ -210,6 +226,8 @@ font-size: 18px;
     margin-bottom: 48px;
 
   }
+
+
 
 
 
@@ -252,8 +270,6 @@ font-size: 18px;
     color: #0E0E0E;
     font-weight: bold;
     font-style:  40px;
-    
-
   }
 
   .h33{
@@ -284,12 +300,18 @@ font-size: 18px;
 
 
 
+
  .main{
     background-color: #F1F1F3;
     margin-top: 80px;
     margin-left: 160px;
     margin-right: 160px;
   }
+
+
+
+
+
 
   .div1{
     background-color: #C6E4D6;
@@ -364,7 +386,6 @@ font-size: 18px;
     width: 410px;
     padding: 32px;
     margin-left: 24px;
-
   }
 
   .div11{
@@ -414,7 +435,6 @@ font-size: 18px;
     margin-left: 124px;
     margin-right: 124px;
     height: 60px;
-
   }
 
   .div18{
@@ -440,9 +460,11 @@ font-size: 18px;
 
   .div22{
     text-align: center;
-    /* display: flex; */
     
   }
+
+
+
 
  .section{
   background-color: #C6E4D6;
@@ -451,6 +473,7 @@ font-size: 18px;
   margin-right: 160px;
   margin-top: 38px;
  }
+
 
 
 
@@ -483,18 +506,3 @@ font-size: 18px;
     font-weight: 100;
     font-size: 16px;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
